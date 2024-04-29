@@ -1,0 +1,6 @@
+#include <stdio.h>
+#incluide <stdlib.h>
+
+int main() {
+    char operacao;
+    in 
